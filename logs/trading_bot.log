@@ -1,0 +1,10 @@
+2026-02-20 18:31:55,223 - INFO - Logging initialized.
+2026-02-20 18:31:57,230 - INFO - Binance Futures client initialized (Testnet).
+2026-02-20 18:31:57,230 - INFO - Sending order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-02-20 18:31:57,919 - INFO - Order response: {}
+2026-02-20 18:31:57,919 - INFO - order has been executed successfully: {}
+2026-02-20 18:32:37,685 - INFO - Logging initialized.
+2026-02-20 18:32:38,021 - INFO - Binance Futures client initialized (Testnet).
+2026-02-20 18:32:38,021 - INFO - Sending order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.01, 'price': 30000.0, 'timeInForce': 'GTC'}
+2026-02-20 18:32:38,730 - INFO - Order response: {}
+2026-02-20 18:32:38,730 - INFO - order has been executed successfully: {}
